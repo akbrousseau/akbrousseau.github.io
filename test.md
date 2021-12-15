@@ -5,9 +5,11 @@
 Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves online is the goal of this project. Learn2Surf aims to teach kids about phishing, social media safety, malware, two factor authentication, and password safety. Internet safety and etiquette, are an important part of cybersecurity. By teaching children how to be safe online, we can decrease the number of malicious events that transpire and make the internet a safer place to surf.
 
 ## Project Goals
-(high level project goals, reuse from milestone 1, update if scope changed)
-* Teach Kids about internet safety
-* Inform Students about the following topics
+The goals of this project are simple in design but something we feel important. This project has three main goals:
+1. Teach kids about how to stay safe online. 
+2. To teach students about the topics listed below.
+3. To spark excitement and interest in the field of cyber security. 
+* We wish to Inform Students about the following topics
     * [Authentication](#authentication)
       * Password Safety
       * Mutlifactor Authentication
