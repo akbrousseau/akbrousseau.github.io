@@ -37,13 +37,13 @@ We will begin our first large sprint with the intention of splitting into two te
 The final two weeks of our project we plan to run back through the modules and correct any mistakes, then coordinate with Dr. Hale and our Stakeholders to ensure that the content is sound and ready to be released.
 
 During our research we discovered 3 topics that we planned to expand on with individual modules, these topics include: 
-    1. [Authentication](#authentication)
+1. [Authentication](#authentication)
       * Password Safety
       * Mutlifactor Authentication
-    2. [Prevention](#Prevention)
+2. [Prevention](#Prevention)
       * Phishing
       * Malware 
-    3. [Social Media Safety](#social-media-safety)
+2. [Social Media Safety](#social-media-safety)
       * Cyberbullying
       * Online Privacy 
 
