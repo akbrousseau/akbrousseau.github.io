@@ -53,27 +53,28 @@ From here our team have further identified learning objectives and associated ac
 ### Password Safety Learning Objectives: 
 Completeing this course students should be expected to:
 * ***Understand*** the rationale behind the most common password attacks and how they can compromise a password. 
-* Students will be able to differentiate between good and bad passwords with regard to the most common password attacks. 
-* Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
-* Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
-* Students will be able to recognize a social engineering attempt to gain password information.
-* Students recognize the different aspects of password safety.
-    * Students will be able to explain why recording passwords reduces their effectiveness 
-    * Students will be able to explain why password reuse can create problems. 
-    * Students will be able to explain why password sharing can be dangerous.
+* ***Differentiate*** between good and bad passwords with regard to the most common password attacks. 
+* ***Construct*** passwords that are both memorable and secure against the most common password attacks.
+* ***Create*** memorization techniques that will allow the students to more easily remember secure passwords. 
+* ***Recognize*** a social engineering attempt to gain password information.
+* ***Recognize*** the different aspects of password safety.
+    * ***Explain*** why recording passwords reduces their effectiveness 
+    * ***Explain*** why password reuse can create problems. 
+    * ***Explain*** why password sharing can be dangerous.
   
 ### Multifactor Authentication Learning Objectives:
-* Students will be able to differentiate between the five different factors of authentication. 
-* Students are able to describe the types of authentication methods that are most commonly used.
-* Students are able to implement the correct level of protection for various types of accounts and devices.
-* Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
+Completeing this course students should be expected to:
+* ***Differentiate*** between the five different factors of authentication. 
+* ***Describe*** the types of authentication methods that are most commonly used.
+* ***Implement*** the correct level of protection for various types of accounts and devices.
+* ***Differentiate*** the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
 ## Prevention
 ### Phishing Learning Objectives
-
-Identify features of a phishing attempt in an email/text-message.
-Differentiatebetween legitimate communications and phishing attempts.
-Understand execute the steps necessary to report and delete phishing attempts.
+Completeing this course students should be expected to:
+* ***Identify*** features of a phishing attempt in an email/text-message.
+* ***Differentiate*** between legitimate communications and phishing attempts.
+* ***Understand*** execute the steps necessary to report and delete phishing attempts.
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
