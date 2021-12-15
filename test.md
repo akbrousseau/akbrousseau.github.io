@@ -49,9 +49,16 @@ During our research we discovered 3 topics that we planned to expand on with ind
 
 From here our team have further identified learning objectives and associated activities that will follow each of the four guidelines. 
 
-# Authentication
-## Password Safety
-
+## Authentication
+### Password Safety Learning Objectives:
+* Students will be able to understand the rationale behind the most common password attacks and how they can compromise a password. 
+* Students will be able to differentiate between good and bad passwords with regard to the most common password attacks. 
+* Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
+* Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
+* Students will be able to recognize a social engineering attempt to gain password information.
+* Students recognize the different aspects of password safety.
+    * Students will be able to explain why recording passwords reduces their effectiveness 
+    * Students will be able to explain why password reuse can create problems. 
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
