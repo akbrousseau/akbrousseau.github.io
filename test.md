@@ -59,6 +59,7 @@ From here our team have further identified learning objectives and associated ac
 * Students recognize the different aspects of password safety.
     * Students will be able to explain why recording passwords reduces their effectiveness 
     * Students will be able to explain why password reuse can create problems. 
+    * Students will be able to explain why password sharing can be dangerous.
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
