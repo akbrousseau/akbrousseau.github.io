@@ -87,6 +87,7 @@ By completing this course students can be expected to be able to:
 * <strong>Understand</strong> the purpose of anti-virus software.
 
 ## Social Media Safety 
+A note on this section, resources that were available for these two modules were vast. It was decided to not create entirely new modules but list key concepts and to be an aggregated resource for teachers on these topics. 
 ### Cyberbullying Learning Objectives.
 * ***Identifying*** what (cyber)bullying looks like.
 * ***Learn*** how to discourage and/or stop others from bullying “you”.
