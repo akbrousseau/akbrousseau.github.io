@@ -36,11 +36,16 @@ We will begin our first large sprint with the intention of splitting into two te
 
 The final two weeks of our project we plan to run back through the modules and correct any mistakes, then coordinate with Dr. Hale and our Stakeholders to ensure that the content is sound and ready to be released.
 
-We have already roughly identified the description of the course from there we have five course goals to focus on in order of priority.
-1. Authentication
-2. Social media safety
-3. Phishing
-4. Malware
+During our research we discovered 3 topics that we planned to expand on with individual modules, these topics include: 
+    1. [Authentication](#authentication)
+      * Password Safety
+      * Mutlifactor Authentication
+    2. [Prevention](#Prevention)
+      * Phishing
+      * Malware 
+    3. [Social Media Safety](#social-media-safety)
+      * Cyberbullying
+      * Online Privacy 
 
 From here we have further identified some possible learning objectives and associated activities that will follow each of the four guidelines. Each of them will be refined further during the research and template development point in our project timeline.
 
