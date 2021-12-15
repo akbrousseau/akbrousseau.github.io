@@ -76,6 +76,27 @@ Completeing this course students should be expected to:
 * ***Differentiate*** between legitimate communications and phishing attempts.
 * ***Understand*** execute the steps necessary to report and delete phishing attempts.
 
+### Malware Learning Objectives
+By completing this course students can be expected to be able to: 
+* <strong>Understand</strong> what malware and computer viruses are. 
+* <strong>Differentiate</strong> the differences between a virus and malware.
+* <strong>Understand</strong> the effects that malware and computer viruses have on computers. 
+* <strong>Explain</strong> the personal consequences of becoming infected by a malware or virus. 
+* <strong>Identify</strong> certain types of malware and their dangers. 
+* <strong>Implement</strong> strategies to prevent themselves from becoming a target of malware. 
+* <strong>Understand</strong> the purpose of anti-virus software.
+
+## Social Media Safety 
+### Cyberbullying Learning Objectives.
+* ***Identifying*** what (cyber)bullying looks like.
+* ***Learn*** how to discourage and/or stop others from bullying “you”.
+* ***Learn*** how to de-escalate if you’ve identified that you have been bullying others.
+
+### Online Privacy Learning Objectives
+* ***Understand*** what data can be tracked, how it is collected, and how it can be used.
+* ***Know*** how data can be used to identify someone.
+
+
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
 
