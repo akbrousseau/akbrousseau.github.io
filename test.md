@@ -47,7 +47,11 @@ During our research we discovered 3 topics that we planned to expand on with ind
       * Cyberbullying
       * Online Privacy 
 
-From here we have further identified some possible learning objectives and associated activities that will follow each of the four guidelines. Each of them will be refined further during the research and template development point in our project timeline.
+From here our team have further identified learning objectives and associated activities that will follow each of the four guidelines. 
+
+# Authentication
+## Password Safety
+
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
