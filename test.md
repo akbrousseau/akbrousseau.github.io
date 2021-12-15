@@ -50,8 +50,9 @@ During our research we discovered 3 topics that we planned to expand on with ind
 From here our team have further identified learning objectives and associated activities that will follow each of the four guidelines. 
 
 ## Authentication
-### Password Safety Learning Objectives:
-* Students will be able to understand the rationale behind the most common password attacks and how they can compromise a password. 
+### Password Safety Learning Objectives: 
+Completeing this course students should be expected to:
+* ***Understand*** the rationale behind the most common password attacks and how they can compromise a password. 
 * Students will be able to differentiate between good and bad passwords with regard to the most common password attacks. 
 * Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
 * Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
@@ -60,6 +61,19 @@ From here our team have further identified learning objectives and associated ac
     * Students will be able to explain why recording passwords reduces their effectiveness 
     * Students will be able to explain why password reuse can create problems. 
     * Students will be able to explain why password sharing can be dangerous.
+  
+### Multifactor Authentication Learning Objectives:
+* Students will be able to differentiate between the five different factors of authentication. 
+* Students are able to describe the types of authentication methods that are most commonly used.
+* Students are able to implement the correct level of protection for various types of accounts and devices.
+* Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
+
+## Prevention
+### Phishing Learning Objectives
+
+Identify features of a phishing attempt in an email/text-message.
+Differentiatebetween legitimate communications and phishing attempts.
+Understand execute the steps necessary to report and delete phishing attempts.
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
